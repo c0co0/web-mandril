@@ -907,13 +907,20 @@ html, body {
       }
 
        /* ----------- JUEGO ------------ */
-       .grid{
+       /* .grid{
         display: flex;
         flex-wrap: wrap;
         height: 300px;
         width: 400px;
-      }
+      } */
 
       .container4{
         display: block;
+        justify-content: center;
+        align-items: center;
+        padding: 10em;
+        margin: 10em;
       }
+
+      
+        
